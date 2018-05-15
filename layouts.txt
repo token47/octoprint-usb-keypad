@@ -33,7 +33,7 @@ Obs: in my keyboard, the 000 sends three times the 0 scan code, making it kind
      layouts, but you may change that, of course.
 
 
-Default keys / Native / No shift
+Default keys / Native / No shift - used for movements & misc
 
 +----------+----------+----------+----------+
 | NumLock  | /        | *        | -        |
@@ -63,7 +63,7 @@ Default keys / Native / No shift
 +----------+----------+----------+----------+
 
 
-Shift #1 Layout
+Shift #1 Layout  -  used for temperatures
 
 +----------+----------+----------+----------+
 | NumLock  | /        | *        | -        |
@@ -92,6 +92,35 @@ Shift #1 Layout
 |          |          |          |          |
 +----------+----------+----------+----------+
 
+
+Shift #2 Layout  -  used for small movements
+
++----------+----------+----------+----------+
+| NumLock  | /        | *        | -        |
+|          |          |          |          |
+| Shift #1 | Shift #2 | Shift #3 | Shift #4 |
+|          |          |          |          |
++----------+----------+----------+----------+
+| 7  Home  | 8   Up   | 9  PgUp  | +        |
+|          |          |          |          |
+| Z +0.1mm |  Y +1mm  |  Z +1mm  |          |
+|          |          |          |          |
++----------+----------+----------+----------+
+| 4  Left  | 5        | 6  Right | Backspc  |
+|          |          |          |          |
+|  X -1mm  |          |  X +1mm  |          |
+|          |          |          |          |
++----------+----------+----------+----------+
+| 1   End  | 2  Down  | 3  PgDn  | Enter    |
+|          |          |          |          |
+| Z -0.1mm |  Y -1mm  |  Z -1mm  |          |
+|          |          |          |          |
++----------+----------+----------+          +
+| 0   Ins  | 000      | ,   Del  |          |
+|          |          |          |          |
+|          |          |          |          |
+|          |          |          |          |
++----------+----------+----------+----------+
 
 
 The other layouts are TBD.

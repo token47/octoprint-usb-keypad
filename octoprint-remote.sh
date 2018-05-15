@@ -8,7 +8,7 @@
 # please, fix it instead. thanks.
 
 host="tp002.lab.token:80"
-apikey="EEBD3CFD8BBC4525B01401B0067A57B1"
+. ~/.octoprint.apikey # youu should put your key here, one line, apikey="blabla"
 
 api_call() {
 	local "$@"

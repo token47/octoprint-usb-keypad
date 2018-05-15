@@ -7,7 +7,7 @@ Please help improving it and send me ideas or pull requests.
 - you need actkbd installed on the pi (just clone git and run make, don't install)
 - you need an usb keypad, a numeric only one will be perfect
 
-- test keyscans with "actkbd -d <dev> -s -n"
+- test keyscans with "actkbd -d *dev* -s -n"
 - change the actkbd.conf file to match your keypad and the path for the octoprint-remote.sh script
 - put your octoprint API in the ~/.octoprint.apikey file
 - run start.sh

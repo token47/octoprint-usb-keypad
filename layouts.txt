@@ -58,8 +58,8 @@ Default keys / Native / No shift - used for movements & misc
 +----------+----------+----------+          +
 | 0   Ins  | 000      | ,   Del  |          |
 |          |          |          |          |
-|  E -20mm |          | E +20mm  |          |
-|          |          |          |          |
+|  E +20mm |  E +60mm | E -20mm  |          |
+|          |(see note)|          |          |
 +----------+----------+----------+----------+
 
 
@@ -84,9 +84,9 @@ Shift #1 Layout  -  used for temperatures
 | 1   End  | 2  Down  | 3  PgDn  | Enter    |
 |          |          |          |          |
 |  HotEnd  |  HotEnd  |  HotEnd  |          |
-|   240 C  |   250 C  |          |          |
-+----------+----------+----------+          +
-| 0   Ins  | 000      | ,   Del  |          |
+|   240 C  |   250 C  |          |  Release |
++----------+----------+----------+  all     +
+| 0   Ins  | 000      | ,   Del  |  shifts  |
 |          |          |          |          |
 |          |          |          |          |
 |          |          |          |          |
@@ -114,9 +114,9 @@ Shift #2 Layout  -  used for small movements
 | 1   End  | 2  Down  | 3  PgDn  | Enter    |
 |          |          |          |          |
 | Z -0.1mm |  Y -1mm  |  Z -1mm  |          |
-|          |          |          |          |
-+----------+----------+----------+          +
-| 0   Ins  | 000      | ,   Del  |          |
+|          |          |          |  Release |
++----------+----------+----------+  all     +
+| 0   Ins  | 000      | ,   Del  |  shifts  |
 |          |          |          |          |
 |          |          |          |          |
 |          |          |          |          |

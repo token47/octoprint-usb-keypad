@@ -48,8 +48,8 @@ Default keys / Native / No shift - used for movements & misc
 +----------+----------+----------+----------+
 | 4  Left  | 5        | 6  Right | Backspc  |
 |          |          |          |          |
-|  X -10mm |          |  X +10mm |  ATX OFF |
-|          |          |          |          |
+|  X -10mm |  Motors  |  X +10mm |  ATX OFF |
+|          |    Off   |          |          |
 +----------+----------+----------+----------+
 | 1   End  | 2  Down  | 3  PgDn  | Enter    |
 |          |          |          |          |

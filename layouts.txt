@@ -74,7 +74,7 @@ Shift #1 Layout  -  used for temperatures
 | 7  Home  | 8   Up   | 9  PgUp  | +        |
 |          |          |          |          |
 |   Bed    |   Bed    |   Bed    |   Bed    |
-|  Disable |   60 C   |   100 C  |   120C   |
+|  Disable |   60 C   |   100 C  |   110C   |
 +----------+----------+----------+----------+
 | 4  Left  | 5        | 6  Right | Backspc  |
 |          |          |          |          |
